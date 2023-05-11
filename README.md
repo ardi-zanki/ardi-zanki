@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-You can call me **Ardi**. I'm frontend enthusiast working with web ecosystem, and writes about building ideas with design & code.
+You can call me **Ardizanki**. I'm frontend enthusiast working with web ecosystem, and writes about building ideas with design & code.
 
 
 Also, let's connect on twitter! Feel free to dm me for discussion!
